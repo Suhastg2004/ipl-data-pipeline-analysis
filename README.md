@@ -46,6 +46,3 @@ Suggested folders:
 
 Contributions are welcome. Open an issue or submit a pull request with clear details about your changes.
 
-## License
-
-Add a license file (e.g., MIT) to define project usage terms.
